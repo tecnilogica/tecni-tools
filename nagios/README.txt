@@ -1,6 +1,6 @@
 Event handler for reset a Hetzner machine throught the API when is down. 
 
-The script it must receive 5 parameters in this order:
+The script must receive 5 parameters in this order:
 
 - HOSTADDRESS
 - HOSTSTATE
