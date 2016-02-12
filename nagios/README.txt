@@ -21,11 +21,11 @@ INSTALLATION
 
 1.- Configure the reset-hetzner.py script.
 
-username=’’ (The username of Hetzner) 
+username=’’ (Hetzner's username) 
 
-password= ‘’ (The password of Hetzner) 
+password= ‘’ (Hetzner's password) 
 
-email=’’ (The email on the alerts will send) 
+email=’’ (The email the alerts will sent) 
 
 softAttempt=‘15’ (Default value for the soft reset) 
 
